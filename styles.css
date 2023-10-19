@@ -1,16 +1,15 @@
-/*  your css code here. If applicable */
-#id{
+#id {
 	background:yellow;
 	border-width:1px;
 	border-color:green;
 }
-#id{
+#id {
 	background:red;
 	border-width:1px;
 	border-color:black;
 }
 
-#id{
+#id {
 	background:green;
 	border-width:1px;
 	border-color:yellow;
